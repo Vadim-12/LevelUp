@@ -88,7 +88,6 @@ h2{
 }
 .main-1 .buy-btn:hover{
 	width: calc(50% + 5px);
-	height: 52px;
 	opacity: 0.5;
 	-webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
@@ -263,9 +262,8 @@ h2{
 	border-radius: 5px;
 	color: white;
 }
-.main-4 button:hover{
+.main-4 a[href="#form-query"]:hover{
 	width: calc(30% + 5px);
-	height: 52px;
 	opacity: 0.5;
 	-webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
@@ -414,7 +412,6 @@ h2{
 .main-5 button[type="submit"]:hover{
 	opacity: 0.5;
 	width: calc(35% + 5px);
-	height: 52px;
 	-webkit-transition: all 0.2s ease;;
   -moz-transition: all 0.2s ease;;
   -o-transition: all 0.2s ease;;
